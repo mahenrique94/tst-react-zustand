@@ -1,0 +1,3 @@
+.grid-form--search {
+  grid-template-columns: 1fr minmax(20%, 150px);
+}
